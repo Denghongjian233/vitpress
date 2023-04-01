@@ -1,3 +1,11 @@
+<!--
+ * @Author: dhj 17613071153@163.com
+ * @Date: 2023-03-28 10:24:39
+ * @LastEditors: dhj 17613071153@163.com
+ * @LastEditTime: 2023-04-01 13:16:30
+ * @FilePath: \vitepress-starter\docs\index.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
